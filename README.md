@@ -1,1 +1,1 @@
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimagure-ningen&theme=radical)
+[![Daito's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimagure-ningen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
